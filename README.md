@@ -18,7 +18,7 @@ Full API documentation is available here:
 
 ### 2. Insert Your API Key
 - Open this file in the project:  
-  `rortiz_LoopedIn_Final/Networking/Endpoint.swift`
+  `rortiz_LoopedIn_Final/rortiz_LoopedIn_Final/Networking/Endpoint.swift`
 - Find this line:
   ```swift
   var queryItems = [URLQueryItem(name: "apikey", value: "Placeholder API Key")]
