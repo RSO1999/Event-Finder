@@ -22,3 +22,18 @@ Full API documentation is available here:
 - Find this line:
   ```swift
   var queryItems = [URLQueryItem(name: "apikey", value: "Placeholder API Key")]
+
+### 2. Demo
+
+https://github.com/user-attachments/assets/19732cf1-f066-43b6-aefe-33a4780bffb0
+
+https://github.com/user-attachments/assets/193951bf-e335-4d53-931c-f28275b4ffac
+
+https://github.com/user-attachments/assets/8453bc25-5e38-430d-9bcb-6b593096e07d
+
+https://github.com/user-attachments/assets/00863514-7ffa-4b0e-b270-65eb7db6a711
+
+https://github.com/user-attachments/assets/5614a208-8c4c-40d6-ae4e-f173b5609f2a
+
+
+
